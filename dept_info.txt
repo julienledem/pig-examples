@@ -1,0 +1,6 @@
+CS	10
+English	20
+History	30
+EE	40
+Psych	50
+Biology	60
